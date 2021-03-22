@@ -1,0 +1,34 @@
+import Vue from 'vue';
+import { Button,Search,Swipe, SwipeItem,Icon,Tag,List,Cell,DropdownMenu, DropdownItem,Empty,Tabbar, TabbarItem,Col, Row,Grid, GridItem,Form,Field,Toast,GoodsAction, GoodsActionIcon, GoodsActionButton,Sku,Checkbox,CheckboxGroup,Card }from 'vant';
+// import Button from 'vant/lib/button';
+Vue.use(Toast);
+Vue.use(Field);
+Vue.use(GoodsAction);
+Vue.use(GoodsActionButton);
+Vue.use(GoodsActionIcon);
+Vue.use(Form);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Col);
+Vue.use(Row);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(Empty);
+Vue.use(DropdownMenu);
+Vue.use(DropdownItem);
+Vue.use(DropdownMenu);
+Vue.use(DropdownItem);
+Vue.use(Cell);
+Vue.use(List);
+Vue.use(Tag);
+Vue.use(Icon);
+Vue.use(Button);
+Vue.use(Search);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Sku);
+Vue.use(Checkbox);
+Vue.use(CheckboxGroup);
+Vue.use(Card);
+ 
+ 
